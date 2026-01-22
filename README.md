@@ -2,8 +2,6 @@
 
 A simple drag and drop meditation. Take a look at the HTML, JS and CSS to get an idea how to build a basic web interface, style it, and add an interaction.
 
-![my terrarium](screenshot_gray.png)
-
 ## Credits
 
 The solution to draggable elements was inspired by w3schools solution on creating a [Draggable HTML Element](https://www.w3schools.com/howto/howto_js_draggable.asp).
