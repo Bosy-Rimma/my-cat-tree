@@ -1,14 +1,10 @@
-# My Terrarium 🌵🌱
+# My Cat Tree 
 
 A simple drag and drop meditation. Take a look at the HTML, JS and CSS to get an idea how to build a basic web interface, style it, and add an interaction.
 
 ![my terrarium](screenshot_gray.png)
 
 ## Credits
-
-The terrarium created via CSS was inspired by Jakub Mandra's glass jar [codepen](https://codepen.io/Rotarepmi/pen/rjpNZY).
-
-The artwork was hand drawn by [Jen Looper](http://jenlooper.com) using Procreate.
 
 The solution to draggable elements was inspired by w3schools solution on creating a [Draggable HTML Element](https://www.w3schools.com/howto/howto_js_draggable.asp).
 
