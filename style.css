@@ -14,19 +14,19 @@ h1 {
   min-height: 100vh;
 }
 
-/* CAT TREE / MAIN STAGE (use this if you have <div id="cat-tree"> ... ) */
+/* CAT TREE / MAIN STAGE */
 #cat-tree {
   position: relative;
   width: 70%;
   height: 90vh;
   margin: 0 auto;
-  background-image: url("./images/cat-tree.png");
+  background-image: url("./cat-tree.png"); /* MUST match file location */
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 }
 
-/* Side containers (only keep if you still use them) */
+/* Side containers */
 #left-container {
   left: 0px;
 }
@@ -43,7 +43,7 @@ h1 {
   padding: 10px;
 }
 
-/* If you still keep cat “slots” on the side */
+/* Cat slots */
 .cat-holder {
   position: relative;
   height: 13%;
@@ -52,7 +52,7 @@ h1 {
 
 /* Draggable cats */
 .cat {
-  position: absolute;          /* required for your drag script */
+  position: absolute;
   max-width: 150%;
   max-height: 150%;
   z-index: 2;
@@ -61,7 +61,4 @@ h1 {
 }
 
 .cat:active {
-  cursor: grabbing;
-}
-
-
+  cursor: grabb
